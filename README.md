@@ -2,13 +2,13 @@
 
 AI-powered text-to-music generation using YuE2 model with interactive Gradio interface.
 
-## 🚀 Quick Start
+##  Quick Start
 
 Click the button below to open this notebook directly in Kaggle:
 
-[![Open in Kaggle](https://kaggle.com/static/images/open-in-kaggle.svg)](https://www.kaggle.com/kernels/welcome?src=https://github.com/maxzaguzov-ux/YuE2-Music-Studio-Kaggle/blob/main/Yue2_text2music_kaggle.ipynb)
+[![Open in Kaggle](https://kaggle.com/static/images/open-in-kaggle.svg)](https://www.kaggle.com/kernels/welcome?src=https://github.com/maxzaguzov-ux/YuE2-Music-Studio-Kaggle/blob/main/yue2-text2music-kaggle.ipynb)
 
-## 📝 Features
+##  Features
 
 - 🎼 **5 Genre Presets**: Indie Pop, Synthwave, Lo-Fi, Cinematic, Alt Rock
 - ✍️ **Custom Lyrics**: Support for [Verse], [Chorus], [Bridge], [Outro] structure
@@ -32,7 +32,7 @@ Click the button below to open this notebook directly in Kaggle:
 6. Click the public link to open the studio
 7. Configure your music and generate!
 
-## 🎨 Interface Preview
+## 🎨 Interface
 
 The Gradio interface provides:
 - Style & Lyrics configuration
