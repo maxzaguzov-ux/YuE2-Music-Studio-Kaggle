@@ -6,7 +6,7 @@ AI-powered text-to-music generation using YuE2 model with interactive Gradio int
 
 Click the button below to open this notebook directly in Kaggle:
 
-[![Open in Kaggle](https://kaggle.com/static/images/open-in-kaggle.svg)](https://www.kaggle.com/kernels/welcome?src=https://github.com/maxzaguzov-ux/YuE2-Music-Studio-Kaggle/blob/main/Yue2_text2music_kaggle.ipynb)
+[![Open in Kaggle]([https://kaggle.com/static/images/open-in-kaggle.svg)](https://www.kaggle.com/kernels/welcome?src=https://github.com/maxzaguzov-ux/YuE2-Music-Studio-Kaggle/blob/main/Yue2_text2music_kaggle.ipynb](https://www.kaggle.com/kernels/welcome?src=https://github.com/maxzaguzov-ux/YuE2-Music-Studio/blob/main/Yue2_text2music_kaggle.ipynb))
 
 ## 📝 Features
 
